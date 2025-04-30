@@ -1,0 +1,14 @@
+{
+  "name": "custom-http-server",
+  "version": "1.0.0",
+  "description": "A custom HTTP server implemented using Node.js HTTP module.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
