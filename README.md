@@ -36,7 +36,8 @@ To get started with this project, follow these steps:
    node src/server.js
    ```
 
-## Usage
+## Usage     
+
 
 Once the server is running, you can make requests to it using a web browser or tools like `curl` or Postman. The server will respond based on the URL and HTTP method used.
 
